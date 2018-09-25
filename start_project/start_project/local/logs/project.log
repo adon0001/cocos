@@ -1,0 +1,208 @@
+2018-09-21T06:12:57.815Z - normal: Load ~/.CocosCreator/settings.json
+2018-09-21T06:12:57.818Z - normal: checking language setting...
+2018-09-21T06:12:57.819Z - normal: Language: zh
+2018-09-21T06:12:59.464Z - success: protocol editor-framework registered
+2018-09-21T06:12:59.465Z - success: protocol app registered
+2018-09-21T06:12:59.465Z - success: protocol theme registered
+2018-09-21T06:12:59.465Z - success: protocol packages registered
+2018-09-21T06:12:59.465Z - success: protocol unpack registerred
+2018-09-21T06:12:59.465Z - success: protocol disable-commonjs registerred
+2018-09-21T06:12:59.603Z - normal: connected!
+2018-09-21T06:12:59.605Z - normal: Check project E:\adon\cocos\start_project\start_project
+2018-09-21T06:12:59.611Z - normal: Initializing project E:\adon\cocos\start_project\start_project
+2018-09-21T06:12:59.616Z - normal: Initializing Cocos2d
+2018-09-21T06:13:00.319Z - normal: Initializing Asset Database
+2018-09-21T06:13:00.365Z - success: protocol uuid registerred
+2018-09-21T06:13:00.365Z - success: protocol db registerred
+2018-09-21T06:13:00.365Z - success: protocol thumbnail registerred
+2018-09-21T06:13:00.365Z - normal: Loading editor/builtin packages
+2018-09-21T06:13:00.528Z - success: assets loaded
+2018-09-21T06:13:00.530Z - success: builder loaded
+2018-09-21T06:13:00.532Z - success: cocos-analytics loaded
+2018-09-21T06:13:00.535Z - success: console loaded
+2018-09-21T06:13:00.570Z - success: fb-instant-games loaded
+2018-09-21T06:13:00.575Z - success: hierarchy loaded
+2018-09-21T06:13:00.578Z - success: inspector loaded
+2018-09-21T06:13:00.579Z - success: keystore loaded
+2018-09-21T06:13:00.583Z - success: node-library loaded
+2018-09-21T06:13:00.585Z - success: package-asset loaded
+2018-09-21T06:13:00.587Z - success: preferences loaded
+2018-09-21T06:13:00.588Z - success: project-exporter loaded
+2018-09-21T06:13:00.604Z - success: project-importer loaded
+2018-09-21T06:13:00.606Z - success: project-settings loaded
+2018-09-21T06:13:00.609Z - success: ui-kit loaded
+2018-09-21T06:13:00.612Z - success: scene loaded
+2018-09-21T06:13:00.613Z - success: sprite-editor loaded
+2018-09-21T06:13:00.616Z - success: store loaded
+2018-09-21T06:13:00.620Z - success: timeline loaded
+2018-09-21T06:13:00.620Z - normal: Loading builtin packages
+2018-09-21T06:13:00.624Z - success: asset-db-debugger loaded
+2018-09-21T06:13:00.625Z - success: code-editor loaded
+2018-09-21T06:13:00.626Z - success: color-picker loaded
+2018-09-21T06:13:00.627Z - success: jsb-adapter loaded
+2018-09-21T06:13:00.630Z - success: package-manager loaded
+2018-09-21T06:13:00.731Z - success: qqplay-adapter loaded
+2018-09-21T06:13:00.736Z - success: sdkbox loaded
+2018-09-21T06:13:00.740Z - success: tester loaded
+2018-09-21T06:13:00.743Z - success: ui-grid loaded
+2018-09-21T06:13:00.746Z - success: ui-kit-preview-extra loaded
+2018-09-21T06:13:00.748Z - success: ui-kit-preview loaded
+2018-09-21T06:13:00.750Z - success: ui-tree loaded
+2018-09-21T06:13:00.751Z - success: weapp-adapter loaded
+2018-09-21T06:13:01.905Z - normal: Loading packages
+2018-09-21T06:13:01.911Z - normal: Watching packages
+2018-09-21T06:13:02.472Z - normal: Run Application
+2018-09-21T06:13:02.966Z - success: preview server running at http://localhost:7456
+2018-09-21T06:13:22.215Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "E:\\adon\\cocos\\start_project\\start_project\\build",
+  "debug": false,
+  "dest": "E:\\adon\\cocos\\start_project\\start_project\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.start_project",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "4944149d-9cb0-4da2-9ec5-c58a605a26a2"
+  ],
+  "sourceMaps": false,
+  "startScene": "4944149d-9cb0-4da2-9ec5-c58a605a26a2",
+  "template": "link",
+  "title": "start_project",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "44d07a46-922d-4d",
+  "zipCompressJs": true,
+  "project": "E:\\adon\\cocos\\start_project\\start_project",
+  "projectName": "start_project",
+  "debugBuildWorker": false
+}
+2018-09-21T06:13:22.218Z - normal: Building E:\adon\cocos\start_project\start_project
+2018-09-21T06:13:22.219Z - normal: Destination E:\adon\cocos\start_project\start_project\build\web-mobile
+2018-09-21T06:13:22.539Z - normal: Delete E:\adon\cocos\start_project\start_project\build\web-mobile\**\*
+2018-09-21T06:13:24.410Z - normal: Start building assets
+2018-09-21T06:13:24.410Z - normal: Start spawn build-worker
+2018-09-21T06:13:25.165Z - normal: Finish spawn build-worker
+2018-09-21T06:13:25.165Z - normal: Start init build-worker
+2018-09-21T06:13:28.538Z - normal: Finish init build-worker
+2018-09-21T06:13:28.538Z - normal: Start build-assets in worker
+2018-09-21T06:13:29.328Z - normal: Finish build-assets in worker
+2018-09-21T06:13:29.335Z - normal: Finish building assets
+2018-09-21T06:13:29.341Z - normal: Start building plugin scripts
+2018-09-21T06:13:29.349Z - normal: Generating main.js from C:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-09-21T06:13:29.359Z - normal: Generating html from C:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2018-09-21T06:13:29.377Z - normal: Built to "E:\adon\cocos\start_project\start_project\build\web-mobile" successfully
+2018-09-21T06:15:26.541Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "E:\\adon\\cocos\\start_project\\start_project\\build",
+  "debug": false,
+  "dest": "E:\\adon\\cocos\\start_project\\start_project\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.start_project",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "4944149d-9cb0-4da2-9ec5-c58a605a26a2"
+  ],
+  "sourceMaps": false,
+  "startScene": "4944149d-9cb0-4da2-9ec5-c58a605a26a2",
+  "template": "link",
+  "title": "start_project",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "44d07a46-922d-4d",
+  "zipCompressJs": true,
+  "project": "E:\\adon\\cocos\\start_project\\start_project",
+  "projectName": "start_project",
+  "debugBuildWorker": false
+}
+2018-09-21T06:15:26.549Z - normal: Building E:\adon\cocos\start_project\start_project
+2018-09-21T06:15:26.549Z - normal: Destination E:\adon\cocos\start_project\start_project\build\web-mobile
+2018-09-21T06:15:26.555Z - normal: Delete E:\adon\cocos\start_project\start_project\build\web-mobile\**\*
+2018-09-21T06:15:28.434Z - normal: Start building assets
+2018-09-21T06:15:28.435Z - normal: Start spawn build-worker
+2018-09-21T06:15:29.166Z - normal: Finish spawn build-worker
+2018-09-21T06:15:29.166Z - normal: Start init build-worker
+2018-09-21T06:15:32.433Z - normal: Finish init build-worker
+2018-09-21T06:15:32.433Z - normal: Start build-assets in worker
+2018-09-21T06:15:33.217Z - normal: Finish build-assets in worker
+2018-09-21T06:15:33.222Z - normal: Finish building assets
+2018-09-21T06:15:33.230Z - normal: Start building plugin scripts
+2018-09-21T06:15:33.237Z - normal: Generating main.js from C:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-09-21T06:15:33.242Z - normal: Generating html from C:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2018-09-21T06:15:33.258Z - normal: Built to "E:\adon\cocos\start_project\start_project\build\web-mobile" successfully
+2018-09-21T06:23:56.313Z - info: shutdown preview server
